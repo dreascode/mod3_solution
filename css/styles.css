@@ -7,9 +7,7 @@
 .coral{color:#EA3F3F;}
 .coral-faded {color:#E5504B;}
 .white-bg {background-color:#FFF}
-.menuheader > h1 {
-	text-align: center
-}
+
 .yellow-mellow > h2 {text-align: center}
 section { padding:1em; margin:2em 1em; }
 .text-center > li {text-align: center; border-bottom:1px solid #ddd;}
