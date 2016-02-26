@@ -13,6 +13,8 @@
 .yellow-mellow > h2 {text-align: center}
 section { padding:1em; margin:2em 1em; }
 .text-center > li {text-align: center; border-bottom:1px solid #ddd;}
-.navbar-nav {margin-top:0; padding-top:10px;}
+.navbar-nav {margin-top:0; padding-top:10px; }
+.navbar-fixed-top {top: 100px;}
+.navbar-nav > li {background-color:yellow; color:#000;}
 .navbar-toggle {z-index:1000000; position:fixed; top:0; right:0; background-color:#EA3F3F; color:#FFF;}
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {background-color:#EA3F3F; color:#FFF;}
